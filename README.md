@@ -68,5 +68,3 @@ pip install tk
 ## Conclusion
 
 The **Flight Management System** is a simple yet effective tool for managing flight-related operations. It allows administrators to perform CRUD operations on flight data and passengers easily through a user-friendly interface built with Tkinter.
-
-This open-source project is ideal for developers learning about Python, Tkinter, and managing data through CRUD operations. It can be expanded or customized to suit more complex requirements in real-world flight management systems.
